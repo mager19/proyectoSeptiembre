@@ -5,3 +5,8 @@ body{
 p{
 	color:#333;
 }
+
+a{
+	color:red;
+	text-decoration: underline;
+}
