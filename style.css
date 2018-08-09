@@ -1,5 +1,5 @@
 body{
-	background: gray;
+
 }
 
 p{
@@ -9,4 +9,20 @@ p{
 a{
 	color:red;
 	text-decoration: underline;
+}
+
+header{
+	background-color: lightgray;
+	padding: 2em;
+	text-align: center;
+}
+
+section{
+	text-align: center;
+}
+
+footer{
+	background: #333;
+	color:#fff;
+	text-align: center;
 }
